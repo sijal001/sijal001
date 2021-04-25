@@ -9,9 +9,6 @@
 [<img align="left" alt="Sijal | Tableau" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/tableau.png" />][tableau]
 
 
-[![Instagram]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png")](https://www.instagram.com/oasis.sijal__/)
-[![Linkedin Follow]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/linkedin.png")](https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/)
-[![Tablea Follow]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/tableau.png")](https://public.tableau.com/profile/sijal3730#!/)
 
 ## I'm Junior Data Scientist, Developer, and Entreprenure!!
 
