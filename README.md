@@ -17,6 +17,7 @@
 - 🥅 2021 Goals: Contribute more to AI Projects
 - ⚡ Fun fact: I love to play basketball and sketch.
 
+[<img align="left" alt="Skills" src="./icons/skills.png" />][linkedin]
 
 <br />
 
