@@ -1,5 +1,14 @@
 ### Hi there, I'm Sijal - aka CJ 👋
 
+
+#### Connect with me:
+
+
+[<img align="left" alt="Sijal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Sijal | Instagram" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png" />][instagram]
+[<img align="left" alt="Sijal | Tableau" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/tableau.png" />][tableau]
+
+
 [![Instagram]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png")](https://www.instagram.com/oasis.sijal__/)
 [![Linkedin Follow]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/linkedin.png")](https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/)
 [![Tablea Follow]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/tableau.png")](https://public.tableau.com/profile/sijal3730#!/)
@@ -11,12 +20,6 @@
 - 🥅 2021 Goals: Contribute more to AI Projects
 - ⚡ Fun fact: I love to play basketball and sketch.
 
-
-### Connect with me:
-
-
-[<img align="left" alt="Sijal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Sijal | Instagram" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png" />][instagram]
 
 <br />
 
@@ -55,4 +58,4 @@
 
 [instagram]: https://www.instagram.com/oasis.sijal__/
 [linkedin]: https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/
-[tableauplaylist]: https://public.tableau.com/profile/sijal3730#!/
+[tableau]: https://public.tableau.com/profile/sijal3730#!/
