@@ -1,8 +1,8 @@
 ### Hi there, I'm Sijal - aka CJ 👋
 
 [![Instagram]("https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/instagram.png")](https://www.instagram.com/oasis.sijal__/)
-[![Linkedin Follow]("https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linkedin.png")](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-[![Tablea Follow](h"https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/tableau.png")](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Linkedin Follow]("https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linkedin.png")](https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/)
+[![Tablea Follow](h"https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/tableau.png")](https://public.tableau.com/profile/sijal3730#!/)
 
 ## I'm Junior Data Scientist, Developer, and Entreprenure!!
 
@@ -56,13 +56,7 @@
 
 </details>
 
-[website]: 
-[course]: 
-[twitter]: 
-[youtube]: 
+
 [instagram]: https://www.instagram.com/oasis.sijal__/
 [linkedin]: https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/
-[webdevplaylist]: 
 [tableauplaylist]: https://public.tableau.com/profile/sijal3730#!/
-[cssplaylist]: 
-[reactplaylist]: 
