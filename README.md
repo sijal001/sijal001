@@ -1,8 +1,8 @@
 ### Hi there, I'm Sijal - aka CJ 👋
 
-[![Instagram]("https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/instagram.png")](https://www.instagram.com/oasis.sijal__/)
-[![Linkedin Follow]("https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linkedin.png")](https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/)
-[![Tablea Follow]("https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/tableau.png")](https://public.tableau.com/profile/sijal3730#!/)
+[![Instagram]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png")](https://www.instagram.com/oasis.sijal__/)
+[![Linkedin Follow]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/linkedin.png")](https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/)
+[![Tablea Follow]("https://raw.githubusercontent.com/sijal001/git_repo/main/icons/tableau.png")](https://public.tableau.com/profile/sijal3730#!/)
 
 ## I'm Junior Data Scientist, Developer, and Entreprenure!!
 
@@ -15,8 +15,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Sijal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Sijal | Instagram" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/instagram.png" />][instagram]
+[<img align="left" alt="Sijal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Sijal | Instagram" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png" />][instagram]
 
 <br />
 
@@ -32,7 +32,7 @@
 [<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/pandas.png" />][linkedin]
 [<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/numpy.png" />][linkedin]
 [<img align="left" alt="SciKitLearn" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/scikitlearn.png" />][linkedin]
-[<img align="left" alt="Plotly" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/pllotly.png" />][linkedin]
+[<img align="left" alt="Plotly" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/plotly.png" />][linkedin]
 [<img align="left" alt="Tableau" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/tableau.png" />][linkedin]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/docker.png" />][linkedin]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/sql.png" />][linkedin]
