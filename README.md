@@ -47,14 +47,14 @@
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. [Churn Rate Analysis](https://github.com/sijal001/Churn_Rate_Analysis)
+2. [3D House using location](https://github.com/sijal001/3D-House-Project)
+3. [Malfunctioning Industrial Machine Investigation and Inspection Using Sound](https://github.com/sijal001/Malfunctioning_Industrial_Machine_Investigation_and_Inspection_Using_Sound)
+4. [Web Scrapying](https://github.com/sijal001/Web_scraping_RealEstate_Information)
+5. [Data Prefrocessing NYC Car Crashes](https://github.com/sijal001/Data_Preprocessing_NYC_Crashes)
 <!--END_SECTION:activity-->
 
 </details>
