@@ -4,9 +4,9 @@
 #### Connect with me:
 
 
-[<img align="left" alt="Sijal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Sijal | Instagram" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="Sijal | Tableau" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/tableau.png" />][tableau]
+[<img align="left" alt="Sijal | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Sijal | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
+[<img align="left" alt="Sijal | Tableau" width="22px" src="./icons/tableau.png" />][tableau]
 
 <br />
 
@@ -23,22 +23,22 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visual studio.png" />][linkedin]
-[<img align="left" alt="Ananconda" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/anaconda.png" />][linkedin]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linux.png" />][linkedin]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/python.png" />][linkedin]
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/flask.png" />][linkedin]
-[<img align="left" alt="Scrapy" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/scrapy.png" />][linkedin]
-[<img align="left" alt="Geopy" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/geopy.png" />][linkedin]
-[<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/pandas.png" />][linkedin]
-[<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/numpy.png" />][linkedin]
-[<img align="left" alt="SciKitLearn" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/scikitlearn.png" />][linkedin]
-[<img align="left" alt="Plotly" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/plotly.png" />][linkedin]
-[<img align="left" alt="Tableau" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/tableau.png" />][linkedin]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/docker.png" />][linkedin]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/sql.png" />][linkedin]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/mysql.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/github.png" />][linkedin]
+[<img align="left" alt="Ananconda" width="26px" src="./icons/anaconda.png" />][linkedin]
+[<img align="left" alt="Linux" width="26px" src="./icons/linux.png" />][linkedin]
+[<img align="left" alt="Python" width="26px" src="./icons/python.png" />][linkedin]
+[<img align="left" alt="Flask" width="26px" src="./icons/flask.png" />][linkedin]
+[<img align="left" alt="Scrapy" width="26px" src="./icons/scrapy.png" />][linkedin]
+[<img align="left" alt="Geopy" width="26px" src="./icons/geopy.png" />][linkedin]
+[<img align="left" alt="Pandas" width="26px" src="./icons/pandas.png" />][linkedin]
+[<img align="left" alt="Numpy" width="26px" src="./icons/numpy.png" />][linkedin]
+[<img align="left" alt="SciKitLearn" width="26px" src="./icons/scikitlearn.png" />][linkedin]
+[<img align="left" alt="Plotly" width="26px" src="./icons/plotly.png" />][linkedin]
+[<img align="left" alt="Tableau" width="26px" src="./icons/tableau.png" />][linkedin]
+[<img align="left" alt="Docker" width="26px" src="./icons/docker.png" />][linkedin]
+[<img align="left" alt="SQL" width="26px" src="./icons/sql.png" />][linkedin]
+[<img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />][linkedin]
+[<img align="left" alt="Git" width="26px" src="./icons/git.png" />][linkedin]
+[<img align="left" alt="GitHub" width="26px" src="./icons/github.png" />][linkedin]
 
 <br />
 <br />
