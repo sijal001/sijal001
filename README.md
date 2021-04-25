@@ -40,10 +40,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/github.png" />][linkedin]
 
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-
 <br />
 <br />
 
