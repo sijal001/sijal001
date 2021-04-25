@@ -16,8 +16,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/instagram.png" />][instagram]
+[<img align="left" alt="Sijal | LinkedIn" width="22px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Sijal | Instagram" width="22px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/instagram.png" />][instagram]
 
 <br />
 
