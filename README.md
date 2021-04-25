@@ -22,23 +22,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="40px" src="./icons/visual studio.png" />][https://code.visualstudio.com/docs]
-[<img align="left" alt="Ananconda" width="40px" src="./icons/anaconda.png" />][https://www.anaconda.com/about-us]
-[<img align="left" alt="Linux" width="40px" src="./icons/linux.png" />][https://www.linux.com/what-is-linux/]
-[<img align="left" alt="Python" width="40px" src="./icons/python.png" />][https://www.python.org/about/]
-[<img align="left" alt="Flask" width="40px" src="./icons/flask.png" />][https://pypi.org/project/Flask/]
-[<img align="left" alt="Scrapy" width="40px" src="./icons/scrapy.png" />][https://pypi.org/project/Scrapy3/]
-[<img align="left" alt="Geopy" width="40px" src="./icons/geopy.png" />][https://pypi.org/project/geopy/]
-[<img align="left" alt="Pandas" width="40px" src="./icons/pandas.png" />][https://pypi.org/project/pandas/]
-[<img align="left" alt="Numpy" width="40px" src="./icons/numpy.png" />][https://pypi.org/project/numpy/]
-[<img align="left" alt="SciKitLearn" width="40px" src="./icons/scikitlearn.png" />][https://scikit-learn.org/stable/getting_started.html]
-[<img align="left" alt="Plotly" width="40px" src="./icons/plotly.png" />][https://pypi.org/project/plotly/]
-[<img align="left" alt="Tableau" width="40px" src="./icons/tableau.png" />][https://www.tableau.com/why-tableau/what-is-tableau]
-[<img align="left" alt="Docker" width="40px" src="./icons/docker.png" />][https://docs.docker.com/get-started/overview/]
-[<img align="left" alt="SQL" width="40px" src="./icons/sql.png" />][https://www.tutorialspoint.com/sql/sql-overview.htm#:~:text=SQL%20is%20Structured%20Query%20Language,stored%20in%20a%20relational%20database.&text=All%20the%20Relational%20Database%20Management,as%20their%20standard%20database%20language.]
-[<img align="left" alt="MySQL" width="40px" src="./icons/mysql.png" />][https://www.mysql.com/about/]
-[<img align="left" alt="Git" width="40px" src="./icons/git.png" />][https://git-scm.com/about]
-[<img align="left" alt="GitHub" width="40px" src="./icons/github.png" />][https://github.com/about]
+[<img align="left" alt="Visual Studio Code" width="30px" src="./icons/visual studio.png" />](https://code.visualstudio.com/docs)
+[<img align="left" alt="Ananconda" width="30px" src="./icons/anaconda.png" />](https://www.anaconda.com/about-us])
+[<img align="left" alt="Linux" width="30px" src="./icons/linux.png" />](https://www.linux.com/what-is-linux/)
+[<img align="left" alt="Python" width="30px" src="./icons/python.png" />](https://www.python.org/about/)
+[<img align="left" alt="Flask" width="30px" src="./icons/flask.png" />](https://pypi.org/project/Flask/)
+[<img align="left" alt="Scrapy" width="30px" src="./icons/scrapy.png" />](https://pypi.org/project/Scrapy3/)
+[<img align="left" alt="Geopy" width="30px" src="./icons/geopy.png" />](https://pypi.org/project/geopy/)
+[<img align="left" alt="Pandas" width="30px" src="./icons/pandas.png" />](https://pypi.org/project/pandas/)
+[<img align="left" alt="Numpy" width="30px" src="./icons/numpy.png" />](https://pypi.org/project/numpy/)
+[<img align="left" alt="SciKitLearn" width="30px" src="./icons/scikitlearn.png" />](https://scikit-learn.org/stable/getting_started.html)
+[<img align="left" alt="Plotly" width="30px" src="./icons/plotly.png" />](https://pypi.org/project/plotly/)
+[<img align="left" alt="Tableau" width="30px" src="./icons/tableau.png" />](https://www.tableau.com/why-tableau/what-is-tableau)
+[<img align="left" alt="Docker" width="30px" src="./icons/docker.png" />](https://docs.docker.com/get-started/overview/)
+[<img align="left" alt="SQL" width="30px" src="./icons/sql.png" />](https://www.tutorialspoint.com/sql/sql-overview.htm#:~:text=SQL%20is%20Structured%20Query%20Language,stored%20in%20a%20relational%20database.&text=All%20the%20Relational%20Database%20Management,as%20their%20standard%20database%20language.)
+[<img align="left" alt="MySQL" width="30px" src="./icons/mysql.png" />](https://www.mysql.com/about/)
+[<img align="left" alt="Git" width="30px" src="./icons/git.png" />](https://git-scm.com/about)
+[<img align="left" alt="GitHub" width="30px" src="./icons/github.png" />](https://github.com/about)
 
 <br />
 <br />
