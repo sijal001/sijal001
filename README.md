@@ -23,7 +23,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/visual studio.png" />][linkedin]
-[<img align="left" alt="Ananconda" width="26px" src=https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/anaconda.png" />][linkedin]
+[<img align="left" alt="Ananconda" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/anaconda.png" />][linkedin]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linux.png" />][linkedin]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/python.png" />][linkedin]
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/flask.png" />][linkedin]
