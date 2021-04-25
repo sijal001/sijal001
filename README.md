@@ -31,7 +31,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/geopy.png">]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/pandas.png">]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/numpy.png">]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/scikitearn.png">]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/scikitlearn.png">]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/plotly.png">]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/tableau.png">]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/sijal001/git_repo/blob/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/docker.png">]
