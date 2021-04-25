@@ -23,7 +23,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="./icons/visual studio.png" />](https://code.visualstudio.com/docs)
-[<img align="left" alt="Ananconda" width="50px" src="./icons/anaconda.png" />](https://www.anaconda.com/about-us])
+[<img align="left" alt="Ananconda" width="50px" src="./icons/anaconda.png" />](https://www.anaconda.com/about-us)
 [<img align="left" alt="Linux" width="30px" src="./icons/linux.png" />](https://www.linux.com/what-is-linux/)
 [<img align="left" alt="Python" width="30px" src="./icons/python.png" />](https://www.python.org/about/)
 [<img align="left" alt="Flask" width="55px" src="./icons/flask.png" />](https://pypi.org/project/Flask/)
@@ -52,9 +52,9 @@
 
 <br />
 
-<details>
 
-  <summary>:zap: GitHub Activity</summary>
+
+<summary>:zap: GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
@@ -66,16 +66,16 @@
 
 <!--END_SECTION:activity-->
 
-</details>
+
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sijal001's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sijal001&show_icons=true&hide_border=true&theme=nord" />
+<summary>:zap: GitHub Stats</summary>
 
-</details>
+<img align="left" alt="Sijal001's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sijal001&show_icons=true&hide_border=true&theme=nord" />
+
+
 
 
 [instagram]: https://www.instagram.com/oasis.sijal__/
