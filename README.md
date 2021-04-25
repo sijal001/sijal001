@@ -50,6 +50,7 @@
 ---
 [<img align="left" alt="Skills" src="https://raw.githubusercontent.com/sijal001/sijal001/master/icons/skills.PNG" />][linkedin]
 
+<br />
 
 <details>
   <summary>:zap: GitHub Activity</summary>
