@@ -56,11 +56,11 @@
   <summary>:zap: GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
- 1. [Churn Rate Analysis](https://github.com/sijal001/Churn_Rate_Analysis)
- 2. [3D House using location](https://github.com/sijal001/3D-House-Project)
- 3. [Malfunctioning Industrial Machine Investigation and Inspection Using Sound](https://github.com/sijal001/Malfunctioning_Industrial_Machine_Investigation_and_Inspection_Using_Sound)
- 4. [Web Scrapying](https://github.com/sijal001/Web_scraping_RealEstate_Information)
- 5. [Data Prefrocessing NYC Car Crashes](https://github.com/sijal001/Data_Preprocessing_NYC_Crashes)
+ &#09; 1. [Churn Rate Analysis](https://github.com/sijal001/Churn_Rate_Analysis)
+ &#09; 2. [3D House using location](https://github.com/sijal001/3D-House-Project)
+ &#09; 3. [Malfunctioning Industrial Machine Investigation and Inspection Using Sound](https://github.com/sijal001/Malfunctioning_Industrial_Machine_Investigation_and_Inspection_Using_Sound)
+ &#09; 4. [Web Scrapying](https://github.com/sijal001/Web_scraping_RealEstate_Information)
+ &#09; 5. [Data Prefrocessing NYC Car Crashes](https://github.com/sijal001/Data_Preprocessing_NYC_Crashes)
 <!--END_SECTION:activity-->
 
 </details>
