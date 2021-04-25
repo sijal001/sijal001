@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love to play basketball and sketch.
 
 
-
 ### Connect with me:
 
 
