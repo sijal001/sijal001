@@ -8,7 +8,7 @@
 [<img align="left" alt="Sijal | Instagram" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/instagram.png" />][instagram]
 [<img align="left" alt="Sijal | Tableau" width="22px" src="https://raw.githubusercontent.com/sijal001/git_repo/main/icons/tableau.png" />][tableau]
 
-
+<br />
 
 ## I'm Junior Data Scientist, Developer, and Entreprenure!!
 
