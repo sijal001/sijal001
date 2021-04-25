@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/visual studio.png" />][linkedin]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visual studio.png" />][linkedin]
 [<img align="left" alt="Ananconda" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/anaconda.png" />][linkedin]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/linux.png" />][linkedin]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/sijal001/git_repo/6ecdf1ab9014e46d2d9369bf0d746b21b9e8efdc/icons/python.png" />][linkedin]
@@ -44,6 +44,20 @@
 <br />
 
 ---
+
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
