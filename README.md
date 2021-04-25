@@ -17,7 +17,6 @@
 - 🥅 2021 Goals: Contribute more to AI Projects
 - ⚡ Fun fact: I love to play basketball and sketch.
 
-[<img align="left" alt="Skills" src="https://raw.githubusercontent.com/sijal001/sijal001/master/icons/skills.PNG" />][linkedin]
 
 <br />
 
@@ -49,6 +48,7 @@
 <br />
 
 ---
+[<img align="left" alt="Skills" src="https://raw.githubusercontent.com/sijal001/sijal001/master/icons/skills.PNG" />][linkedin]
 
 
 <details>
