@@ -37,7 +37,6 @@
 [<img align="left" alt="Docker" width="40px" src="./icons/docker.png" />](https://docs.docker.com/get-started/overview/)
 
 <br />
-
 [<img align="left" alt="SQL" width="55px" src="./icons/sql.png" />](https://www.tutorialspoint.com/sql/sql-overview.htm#:~:text=SQL%20is%20Structured%20Query%20Language,stored%20in%20a%20relational%20database.&text=All%20the%20Relational%20Database%20Management,as%20their%20standard%20database%20language.)
 [<img align="left" alt="MySQL" width="30px" src="./icons/mysql.png" />](https://www.mysql.com/about/)
 [<img align="left" alt="Git" width="30px" src="./icons/git.png" />](https://git-scm.com/about)
