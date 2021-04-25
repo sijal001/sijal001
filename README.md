@@ -54,8 +54,9 @@
 
 <details>
   <summary>:zap: GitHub Activity</summary>
-  
+   <br />
 <!--START_SECTION:activity-->
+
 1. [Churn Rate Analysis](https://github.com/sijal001/Churn_Rate_Analysis) <br />
 2. [3D House using location](https://github.com/sijal001/3D-House-Project) <br />
 3. [Malfunctioning Industrial Machine Investigation and Inspection Using Sound](https://github.com/sijal001/Malfunctioning_Industrial_Machine_Investigation_and_Inspection_Using_Sound) <br />
