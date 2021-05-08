@@ -58,7 +58,7 @@
   
 <!--START_SECTION:activity-->
 
-&nbsp; &nbsp; 1. [Churn Rate Analysis](https://github.com/sijal001/Churn_Rate_Analysis) <br />
+&nbsp; &nbsp; 1. [NLP Summarization](https://github.com/sijal001/NLP_Summarization) <br />
 &nbsp; &nbsp; 2. [3D House using location](https://github.com/sijal001/3D-House-Project) <br />
 &nbsp; &nbsp; 3. [Malfunctioning Machine Investigation and Inspection Using Sound](https://github.com/sijal001/Malfunctioning_Industrial_Machine_Investigation_and_Inspection_Using_Sound) <br />
 &nbsp; &nbsp; 4. [Web Scrapying](https://github.com/sijal001/Web_scraping_RealEstate_Information) <br />
