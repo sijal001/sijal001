@@ -2,16 +2,16 @@
 
 <img src="./icons/banner.png" alt="banner" >
 
+<br/>
 
-
-#### Connect with me:
+### Connect with me:
 
 
 [<img align="left" alt="Sijal | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Sijal | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
 [<img align="left" alt="Sijal | Tableau" width="22px" src="./icons/tableau.png" />][tableau]
 
-<br />
+<br/>
 
 ## I'm Junior Data Scientist, Developer, and Entreprenure!!
 
@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I love to play basketball and sketch.
 
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
