@@ -74,14 +74,11 @@
 <br />
 
 
-<summary>:zap: GitHub Stats</summary>
+<summary> &#x1f4c8; GitHub Stats</summary>
 
 <!--
 <img align="left" alt="Sijal001's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sijal001&show_icons=true&hide_border=true&theme=nord" />
 -->
-
-## &#x1f4c8; GitHub Stats
-
 
 <a href="https://github.com/sijal001/sijal001">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sijal001&show_icons=true&line_height=27&count_private=true&theme=nord" alt="Sijal GitHub Stats" />
