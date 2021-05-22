@@ -1,6 +1,6 @@
-<h2 align="Center"> Hi there, I'm Sijal - aka CJ 👋 </h2>
+<h1 align="Center"> Hi there, I'm Sijal - aka CJ 👋 </h1>
 
-<img src="./icons/banner.png" alt="Girl in a jacket" width="500" height="600">
+<img src="./icons/banner.png" alt="banner" >
 
 
 
