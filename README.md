@@ -51,10 +51,12 @@
 <br />
 
 ---
+<!--
+
 [<img align="left" alt="Skills" src="https://raw.githubusercontent.com/sijal001/sijal001/master/icons/skills.PNG" />][linkedin]
 
+-->
 <br />
-
 
 
 <summary>:zap: GitHub Activity</summary>
@@ -69,8 +71,6 @@
 
 <!--END_SECTION:activity-->
 
-
-
 <br />
 
 
@@ -79,7 +79,15 @@
 <img align="left" alt="Sijal001's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sijal001&show_icons=true&hide_border=true&theme=nord" />
 
 
+## &#x1f4c8; GitHub Stats
 
+
+<a href="https://github.com/sijal001/sijal001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sijal001&show_icons=true&line_height=27&count_private=true&theme=nord" alt="Sijal GitHub Stats" />
+</a>
+<a href="https://github.com/sijal001/sijal001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijal001&hide=java,html,text&langs_count=3&theme=nord" />
+</a>
 
 [instagram]: https://www.instagram.com/oasis.sijal__/
 [linkedin]: https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/
