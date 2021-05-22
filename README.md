@@ -62,7 +62,7 @@
 &nbsp; &nbsp; 2. [3D House using location](https://github.com/sijal001/3D-House-Project) <br />
 &nbsp; &nbsp; 3. [Malfunctioning Machine Investigation and Inspection Using Sound](https://github.com/sijal001/Malfunctioning_Industrial_Machine_Investigation_and_Inspection_Using_Sound) <br />
 &nbsp; &nbsp; 4. [Web Scrapying](https://github.com/sijal001/Web_scraping_RealEstate_Information) <br />
-&nbsp; &nbsp; 5. [Data Prefrocessing NYC Car Crashes](https://github.com/sijal001/Data_Preprocessing_NYC_Crashes) <br />
+&nbsp; &nbsp; 5. [Yoga Pose Detection](https://github.com/sijal001/Yoga_Pose_Detection) <br />
 
 <!--END_SECTION:activity-->
 
