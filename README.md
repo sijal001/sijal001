@@ -90,4 +90,4 @@
 
 [instagram]: https://www.instagram.com/oasis.sijal__/
 [linkedin]: https://www.linkedin.com/in/sijal-kumar-joshi-b1545584/
-[tableau]: https://public.tableau.com/profile/sijal3730#!/
+[tableau]: https://public.tableau.com/profile/sijaljoshi#!/
