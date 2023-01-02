@@ -13,11 +13,11 @@
 
 <br/>
 
-## I'm Junior Data Scientist, Developer, and Entreprenure!!
+## I'm a Data Scientist, Developer, and Entreprenure!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2021 Goals: Contribute more to AI Projects
+- 🥅 2023 Goals: Contribute more to the workd of Artificial Intelligence
 - ⚡ Fun fact: I love to play basketball and sketch.
 
 
