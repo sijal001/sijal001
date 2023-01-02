@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2023 Goals: Contribute more to the workd of Artificial Intelligence
+- 🥅 2023 Goals: Contribute more to the world of Artificial Intelligence
 - ⚡ Fun fact: I love to play basketball and sketch.
 
 
